@@ -1,0 +1,12 @@
+#laravel: ./workbench
+
+providers:
+  - YAAP\Theme\ThemeServiceProvider
+  - Workbench\App\Providers\ThemeServiceProvider
+
+purge:
+  directories:
+    - themes
+
+workbench:
+  welcome: true
