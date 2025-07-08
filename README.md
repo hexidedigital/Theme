@@ -11,17 +11,18 @@ For example, you can develop **multiple** themes for your application and easily
 
 ## Requirements
 
-This version requires [PHP](https://www.php.net/) 8.1 and supports [Laravel](https://laravel.com/) 10-11.
+This version requires [PHP](https://www.php.net/) 8.1 and supports [Laravel](https://laravel.com/) 10-12.
 
 This package also provides support for [Laravel Mix](https://laravel-mix.com/) and [Vite](https://vitejs.dev/) configurations.
 
-| Themes | L5.5               | L5.6               | L5.7               | L5.8               | L6                 | L7  | L8                 | L9                 | L10                | L11                |
-|--------|--------------------|--------------------|--------------------|--------------------|--------------------|-----|--------------------|--------------------|--------------------|--------------------|
-| 2.4    | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x:                | :x: | :x:                | :x:                | :x:                | :x:                |
-| 3.0    | :x:                | :x:                | :x:                | :x:                | :white_check_mark: | :x: | :x:                | :x:                | :x:                | :x:                |
-| 4.1    | :x:                | :x:                | :x:                | :x:                | :x:                | :x: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x:                |
-| 5.0    | :x:                | :x:                | :x:                | :x:                | :x:                | :x: | :x:                | :x:                | :white_check_mark: | :x:                |
-| 5.1    | :x:                | :x:                | :x:                | :x:                | :x:                | :x: | :x:                | :x:                | :white_check_mark: | :white_check_mark: |
+| Themes | Laravel 5.5        | Laravel 5.6        | Laravel 5.7        | Laravel 5.8        | Laravel 6          | Laravel 7          | Laravel 8          | Laravel 9          | Laravel 10         | Laravel 11         | Laravel 12        |
+|--------|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|
+| 2.4    | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x:                | :x:                | :x:                | :x:                | :x:                | :x:                | :x:                |
+| 3.0    | :x:                | :x:                | :x:                | :x:                | :white_check_mark: | :x:                | :x:                | :x:                | :x:                | :x:                | :x:                |
+| 4.1    | :x:                | :x:                | :x:                | :x:                | :x:                | :x:                | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x:                | :x:                |
+| 5.0    | :x:                | :x:                | :x:                | :x:                | :x:                | :x:                | :x:                | :x:                | :white_check_mark: | :x:                | :x:                |
+| 5.1    | :x:                | :x:                | :x:                | :x:                | :x:                | :x:                | :x:                | :x:                | :white_check_mark: | :white_check_mark: | :x:                |
+| 5.2    | :x:                | :x:                | :x:                | :x:                | :x:                | :x:                | :x:                | :x:                | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 
 ## Installation
 
